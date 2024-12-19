@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
     width: "100%", // Full width input field
   },
   picker: {
-    height: 50,
+    height: 100,
     width: screenWidth * 0.8, // Dynamically adjust width based on screen size
     borderColor: "#ccc",
     borderWidth: 1,
